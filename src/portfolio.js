@@ -17,7 +17,7 @@ const greeting = {
     "I am telegram bot Developer 🚀 having an experience of building/modifying telegram bot repos."
   ),
   resumeLink:
-    "https://t.me/XcodersHub",
+    "https://t.me/KangersHub",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -32,7 +32,7 @@ const socialMediaLinks = {
   medium: "",
   stackoverflow: "https://stackoverflow.com/users/15605896/amirul-islam",
   twiiter: "https://twitter.com/AmirulAndalib",
-  organization: "https://github.com/XcodersHub",
+  organization: "https://github.com/KangersHub",
   // Instagram and Twitter are also supported in the links!
   display: true // Set true to display this section, defaults to false
 };
@@ -282,10 +282,10 @@ const blogSection = {
 
   blogs: [
     {
-      url: "https://t.me/XcodersHub",
-      title: "XcodersHub Support Channel",
+      url: "https://t.me/KangersHub",
+      title: "KangersHub Support Channel",
       description:
-        "Join XcodersHub telegram Support channel..."
+        "Join Kangershub telegram Support channel..."
     }
   ],
   display: true // Set false to hide this section, defaults to true
